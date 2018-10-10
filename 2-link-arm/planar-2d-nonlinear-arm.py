@@ -142,7 +142,6 @@ ax.plot(t, q[0], label="Joint 1")
 ax.plot(t, q[1], label="Joint 2")
 
 plt.plot
-plt
 plt.grid()
 plt.xlim((0, tf))
 plt.legend()
